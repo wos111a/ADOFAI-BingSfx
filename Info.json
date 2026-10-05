@@ -6,6 +6,6 @@
   "Requirements": [],
   "AssemblyName": "BingSfx.dll",
   "EntryMethod": "BingSfx.Main.Load",
-  "HomePage": "",
-  "Repository": ""
+  "HomePage": "https://github.com/wos111a/ADOFAI-BingSfx",
+  "Repository": "https://github.com/wos111a/ADOFAI-BingSfx"
 }
