@@ -20,7 +20,7 @@
 ## 安装
 
 1. 已装 [Unity Mod Manager](https://www.nexusmods.com/site/mods/21)。
-2. 下载 Release 里的 `冰音效Mod-v1.0.0.zip`，解压得到 `冰音效Mod` 文件夹，
+2. 下载 Release 里的 `ADOFAI-BingSfx-Mod-v1.0.0.zip`，解压得到 `冰音效Mod` 文件夹，
    整个丢进 `游戏目录\Mods\`：
 
 ```
