@@ -1,4 +1,4 @@
-// 冰与火之舞 (A Dance of Fire and Ice) —— 「冰冰冰」音效 mod  v7
+// 冰与火之舞 (A Dance of Fire and Ice) —— 「冰冰冰」音效 mod  v1.0.0（内部迭代第 7 版）
 //
 // 触发：全键盘，每个键可绑定不同音效；未绑定的键播默认音效。
 // 新增（v7）：
@@ -225,7 +225,7 @@ namespace BingSfx
             mod.OnGUI = OnGUI;
             mod.OnSaveGUI = OnSaveGUI;
 
-            mod.Logger.Log("BingSfx v7.0.0 by wos111(机人) loaded. sounds=" + soundFiles.Count + " bindings=" + bindings.Count + " lang=" + cfg.language);
+            mod.Logger.Log("BingSfx v1.0.0 by wos111(机人) loaded. sounds=" + soundFiles.Count + " bindings=" + bindings.Count + " lang=" + cfg.language);
             return true;
         }
 

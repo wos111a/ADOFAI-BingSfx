@@ -2,7 +2,7 @@
   "Id": "BingSfx",
   "DisplayName": "冰音效 (Bing Sfx)",
   "Author": "By wos111(机人)",
-  "Version": "7.0.0",
+  "Version": "1.0.0",
   "Requirements": [],
   "AssemblyName": "BingSfx.dll",
   "EntryMethod": "BingSfx.Main.Load",

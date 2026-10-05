@@ -3,7 +3,7 @@
 > **A Dance of Fire and Ice（冰与火之舞）按键音效 Mod** —— 按任意键就播放「冰」音效，
 > 全键盘每键可绑不同声音，支持游戏内添加自定义音频、音量调节、中/英/韩三语界面。
 
-**作者：By wos111(机人)** ｜ 版本：v7.0.0 ｜ 游戏：A Dance of Fire and Ice
+**作者：By wos111(机人)** ｜ 版本：v1.0.0 ｜ 游戏：A Dance of Fire and Ice
 
 ---
 
@@ -20,7 +20,7 @@
 ## 安装
 
 1. 已装 [Unity Mod Manager](https://www.nexusmods.com/site/mods/21)。
-2. 下载 Release 里的 `冰音效Mod-v7.0.0.zip`，解压得到 `冰音效Mod` 文件夹，
+2. 下载 Release 里的 `冰音效Mod-v1.0.0.zip`，解压得到 `冰音效Mod` 文件夹，
    整个丢进 `游戏目录\Mods\`：
 
 ```
@@ -78,7 +78,7 @@ dotnet build BingSfx.csproj -c Release
 
 见 [CHANGELOG.md](CHANGELOG.md)。
 
-v7.0.0 修复了三个关键问题：面板文字被挤成三行、文件对话框缓冲区越界与未清零、
+v1.0.0 修复了三个关键问题：面板文字被挤成三行、文件对话框缓冲区越界与未清零、
 空音效目录时每帧抛 `ArgumentNullException`；并新增游戏内添加音频与三语界面。
 
 ## 许可
